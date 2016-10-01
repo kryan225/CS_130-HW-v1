@@ -1,5 +1,12 @@
 abcd
 
 2
+<<<<<<< HEAD
 4
 7
+=======
+
+enter ticket_002
+3
+8
+>>>>>>> ticket_001
